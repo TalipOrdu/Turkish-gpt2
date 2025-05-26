@@ -1,0 +1,75 @@
+Input Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+
+Generated Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+Her geçen gün bir umuttur bu.
+Seni seviyorum kalbim, sana aşığım.
+Sen varsan her şey tamamdır,
+O zaman hayat devam ediyor demektir.
+Bir daha asla sensiz kalmayacağım.
+Sözcükler,
+Umut ve aşk dolu,
+Kalpten dökülürler.
+Sevginin gücü,
+Hayatınıza anlam katar.
+Bu güzel şiir için Zeynep Alkan'a teşekkür ederiz.
+
+==================================================
+
+==================================================
+Input Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+
+Generated Text:
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+Kalp çarpıntılarım çoğalıyor,
+Her nefeste sen çarpıyor yüreğim.
+Sensiz geçen her saniye ağırlaşıyor içimde,
+Sonsuza kadar seni seveceğim,
+Sana olan aşkım sonsuz olacak.
+Bendeki tek gerçek sendin hep.
+Kalbimdeki sevgi, hiç eksilmeyecek gibi.
+Ruhum seninle beraberken, huzurla doluyorum.
+Seni seviyorum
+==================================================
+Generated Time: 2025-04-24 20:23:07
+Input Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+
+Generated Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+Düğüm düğüm, bir sevgi yumağı
+Kalbimin en güzel yerinde,
+Bir gün yeniden doğacaksın biliyorum.
+Benimle gelir misin?
+Gelmek ister misin?
+Sevgilerimle.
+[Not: Şiirin orijinal hali ve çevirisi bu şiirdir. Fakat şiirin tamamı çevirisinin tam tersi şekilde yazılmıştır.]
+NOT 2: Şiirde yer alan sevgi sözcükleri ve dizeler, diğer şiirlerde de kullanılmıştır
+
+==================================================
+Generated Time: 2025-04-24 20:25:05
+Input Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+
+Generated Text: 
+Şiir:
+Kenetlenmişsin kalbime, ilmek ilmek,
+Aşkla doluymuşsun.
+Kalbimin derinliklerinde aşkım var benim.
+Seni seviyorum, sen bana canansın,
+Seviyorum seni, aşkımsın benim.
+Sen benim her şeyimsin, ben senin.
+Yüreğimde aşkın ateşi yandıkça,
+Ruhumun güzelliği soldukça,
+Ne kadar mutlu olduğumu anlatamam sana.
+Ben sensiz ne yaparım hiç bilmiyorum,
+Sana olan
