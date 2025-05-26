@@ -22,3 +22,10 @@ Bu metin model tarafından işlenerek yaklaşık 100 token uzunluğunda şiir ü
 
 Türkçe doğal dil işleme alanında yaratıcı metin üretimi için yerli kaynakların kullanılması ve geliştirilmesi hedeflenmektedir. 
 Bu çalışma, Türkçe dilinde şiir üretimi yapan modellerin pratik kullanımını göstermektedir.
+
+## Geliştirici Ekip
+
+Bu projede kullanılan GPT-2 tabanlı Türkçe dil modeli, Yıldız Teknik Üniversitesi Cosmos ekibi tarafından geliştirilmiştir. 
+Daha fazla bilgi ve projeleri incelemek için:
+
+🔗 [https://cosmos.yildiz.edu.tr/](https://cosmos.yildiz.edu.tr/)
